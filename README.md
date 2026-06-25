@@ -26,6 +26,8 @@ I build AI-powered workflows, automation solutions, and quality assurance projec
 
 ### AI Projects
 
+### 🤖 AI Projects
+
 #### AI Email Summary Bot
 AI bot for summarizing QA emails and generating concise reports.
 
