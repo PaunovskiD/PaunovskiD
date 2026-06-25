@@ -1,16 +1,44 @@
-## Hi there 👋
+# Daniel Paunovski
 
-<!--
-**PaunovskiD/PaunovskiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation & QA Specialist
 
-Here are some ideas to get you started:
+I build AI-powered workflows, automation solutions, and quality assurance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+
+n8n
+Make
+Lovable
+ElevenLabs
+Python
+SQL
+Jira
+Prompt Engineering
+AI Automation
+
+### AI Projects
+
+#### AI Email Summary Bot
+AI bot for summarizing QA emails and generating concise reports.
+
+#### AI QA Report Bot
+Python-based solution for analyzing QA reports and classifying bug risk levels.
+
+#### North Macedonia Pharmacy Competitor Analysis
+AI-assisted market and competitor research project.
+
+### Areas of Interest
+
+- AI Automation
+- Workflow Optimization
+- No-Code Development
+- Quality Assurance
+- Process Improvement
+
+### Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/daniel-paunovski-7ab25a12
+
+GitHub:
+github.com/PaunovskiD
