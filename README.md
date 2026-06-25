@@ -6,15 +6,23 @@ I build AI-powered workflows, automation solutions, and quality assurance projec
 
 ### Tools & Technologies
 
-n8n
-Make
-Lovable
-ElevenLabs
-Python
-SQL
-Jira
-Prompt Engineering
-AI Automation
+# Daniel Paunovski
+
+## AI Automation & QA Specialist
+
+🚀 Building AI-powered workflows, automation solutions, and quality assurance projects.
+
+### Tools & Technologies
+
+- n8n
+- Make
+- Lovable
+- ElevenLabs
+- Python
+- SQL
+- Jira
+- Prompt Engineering
+- AI Automation
 
 ### AI Projects
 
