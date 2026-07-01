@@ -10,6 +10,13 @@ I build AI-powered workflows, automation solutions, and quality assurance projec
 
 ## Featured Projects
 
+### Bug Report → Jira Generator
+AI-powered QA tool that converts bug reports into Jira-ready tickets with severity analysis, test suggestions, and structured recommendations.
+
+🔗 Live Demo: https://daniel-triage.base44.app/
+
+🔗 Repository: https://github.com/PaunovskiD/Bug-report-jira-generator
+
 ### AI Email Summary Bot
 AI-powered assistant for summarizing QA emails and reports.
 
