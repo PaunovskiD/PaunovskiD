@@ -1,5 +1,9 @@
 # Daniel Paunovski
 
+## About Me
+
+Public sector professional transitioning into AI Automation and QA. Passionate about workflow automation, AI-powered tools, process optimization, and building practical business solutions using AI technologies.
+
 ## AI Automation & QA Specialist
 
 I build AI-powered workflows, automation solutions, and quality assurance projects.
@@ -36,13 +40,5 @@ AI-powered meeting assistant built with Lovable.
 
 ## Connect With Me
 
-- LinkedIn
-- GitHub
-
-### Connect With Me
-
-LinkedIn:
-www.linkedin.com/in/daniel-paunovski-7ab25a12
-
-GitHub:
-github.com/PaunovskiD
+- LinkedIn: https://www.linkedin.com/in/daniel-paunovski-7ab25a12
+- GitHub: https://github.com/PaunovskiD
