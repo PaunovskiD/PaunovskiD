@@ -26,6 +26,8 @@ Python tool for analyzing QA reports and classifying bug risk levels.
 ### North Macedonia Pharmacy Competitor Analyses
 AI-assisted market research and competitive intelligence project.
 
+https://gamma.app/docs/North-Macedonia-Pharmacy-Battle-Cards-0wu1wylv7likwcg
+
 ### Meet Muse
 AI-powered meeting assistant built with Lovable.
 
