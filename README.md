@@ -26,9 +26,6 @@ Python tool for analyzing QA reports and classifying bug risk levels.
 ### North Macedonia Pharmacy Competitor Analyses
 AI-assisted market research and competitive intelligence project.
 
-### Bug Report → Jira Generator
-Base44 application that converts bug reports into Jira-ready tickets.
-
 ### Meet Muse
 AI-powered meeting assistant built with Lovable.
 
