@@ -4,19 +4,29 @@
 
 I build AI-powered workflows, automation solutions, and quality assurance projects.
 
-### Tools & Technologies
+## Featured Projects
 
-# Daniel Paunovski
+### AI Email Summary Bot
+AI-powered assistant for summarizing QA emails and reports.
 
-## AI Automation & QA Specialist
+### AI QA Report Bot
+Python tool for analyzing QA reports and classifying bug risk levels.
 
-🚀 Building AI-powered workflows, automation solutions, and quality assurance projects.
+### North Macedonia Pharmacy Competitor Analyses
+AI-assisted market research and competitive intelligence project.
 
-### Tools & Technologies
+### Bug Report → Jira Generator
+Base44 application that converts bug reports into Jira-ready tickets.
+
+### Meet Muse
+AI-powered meeting assistant built with Lovable.
+
+## Tools & Technologies
 
 - n8n
 - Make
 - Lovable
+- Claude
 - ElevenLabs
 - Python
 - SQL
@@ -24,26 +34,10 @@ I build AI-powered workflows, automation solutions, and quality assurance projec
 - Prompt Engineering
 - AI Automation
 
-### AI Projects
+## Connect With Me
 
-### 🤖 AI Projects
-
-#### AI Email Summary Bot
-AI bot for summarizing QA emails and generating concise reports.
-
-#### AI QA Report Bot
-Python-based solution for analyzing QA reports and classifying bug risk levels.
-
-#### North Macedonia Pharmacy Competitor Analysis
-AI-assisted market and competitor research project.
-
-### Areas of Interest
-
-- AI Automation
-- Workflow Optimization
-- No-Code Development
-- Quality Assurance
-- Process Improvement
+- LinkedIn
+- GitHub
 
 ### Connect With Me
 
