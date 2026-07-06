@@ -16,7 +16,22 @@ Building AI-powered workflow automations and practical business applications usi
 
 ## Featured Projects
 
+### 🥇 Career Match AI
+
+AI-powered CV & Cover Letter Generator that analyzes resumes against job descriptions, identifies skill gaps, and generates tailored cover letters.
+
+🚀 Live Demo:
+https://cv-match-ailovableapp.lovable.app/
+
+### 🥈 Applyly – AI Job Application Tracker
+
+AI-powered job application tracker that helps job seekers organize applications, monitor progress, generate AI insights, create follow-up messages, and prepare for interviews.   
+
+🚀 Live Demo:
+https://ai-job-trackerlovableapp.lovable.app/
+
 ### Bug Report → Jira Generator
+
 AI-powered QA tool that converts bug reports into Jira-ready tickets with severity analysis, test suggestions, and structured recommendations.
 
 🔗 Live Demo: https://daniel-triage.base44.app/
@@ -24,29 +39,33 @@ AI-powered QA tool that converts bug reports into Jira-ready tickets with severi
 🔗 Repository: https://github.com/PaunovskiD/Bug-report-jira-generator
 
 ### AI Email Summary Bot
+
 AI-powered assistant for summarizing QA emails and reports.
 
 ### AI QA Report Bot
+
 Python tool for analyzing QA reports and classifying bug risk levels.
 
 ### North Macedonia Pharmacy Competitor Analyses
+
 AI-assisted market research and competitive intelligence project.
 
 https://gamma.app/docs/North-Macedonia-Pharmacy-Battle-Cards-0wu1wylv7likwcg
 
 ### Meet Muse
+
 AI-powered meeting assistant built with Lovable.
 
 ## Tools & Technologies
 
+- Lovable
 - n8n
 - Make
-- Lovable
 - Claude
-- ElevenLabs
-- Python
-- SQL
-- Jira
+- OpenAI
+- Supabase
+- Playwright
+- GitHub
 - Prompt Engineering
 - AI Automation
 
@@ -54,3 +73,4 @@ AI-powered meeting assistant built with Lovable.
 
 - LinkedIn: https://www.linkedin.com/in/daniel-paunovski-7ab25a12
 - GitHub: https://github.com/PaunovskiD
+- email: paunovskid@outlook.com
