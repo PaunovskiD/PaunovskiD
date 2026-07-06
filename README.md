@@ -1,12 +1,18 @@
-# Daniel Paunovski
+👋 Hi, I'm Daniel Paunovski
+AI Automation Specialist | Workflow Automation | AI Solutions
 
 ## About Me
 
-Public sector professional transitioning into AI Automation and QA. Passionate about workflow automation, AI-powered tools, process optimization, and building practical business solutions using AI technologies.
+Building AI-powered workflow automations and practical business applications using n8n, Make, Lovable, Claude, and modern AI technologies. Passionate about process optimization, AI agents, and productivity solutions.
 
 ## AI Automation & QA Specialist
 
-I build AI-powered workflows, automation solutions, and quality assurance projects.
+🚀 AI Automation
+⚡ Workflow Automation
+🤖 Prompt Engineering
+🧩 n8n & Make
+💻 Lovable
+🧪 Quality Assurance
 
 ## Featured Projects
 
